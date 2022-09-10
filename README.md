@@ -1,7 +1,7 @@
 # Brain-Tumor-Segmenation
 ## Requirements
-1.python3.8  
-2.pytorch1.8.1  
+1. python3.8  
+2. pytorch1.8.1  
 You can click here for the virtual environment used for the paper.
 ## DataSet
 The brain tumor datasets (BraTS 2019) could be acquired from [here](https://ipp.cbica.upenn.edu/).
