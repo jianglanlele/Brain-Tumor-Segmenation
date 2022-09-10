@@ -1,4 +1,5 @@
 # Brain-Tumor-Segmenation
+Code will be open source soon
 ## Requirements
 * python3.8  
 * pytorch1.8.1  
