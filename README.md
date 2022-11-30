@@ -1,5 +1,5 @@
 # Brain-Tumor-Segmenation
-
+Open source after thesis acceptance is confirmed
 ## Requirements
 * python3.8  
 * pytorch1.8.1  
